@@ -12,3 +12,4 @@ Meine Hobbys sind:
 -relaxen
 -gammeln 
 und meine Freizeit genießen.
+und ich kann diesen quatsch per commando zeile verändern
